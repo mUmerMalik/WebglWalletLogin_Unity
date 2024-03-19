@@ -5,7 +5,7 @@ web3.0 Unity is an open-source gaming SDK written in C#. It connects games built
 # Features of web3.unity
 Out-of-the-box, web3.0 Unity comes with Unity prefabs & tooling that will make building web3 games a little bit easier. These features include:
 
- Markup : * In-game NFT minting
+* In-game NFT minting
 * Integrable live marketplace for NFTs minted in-game or from the ChainSafe Gaming Marketplace web UI
 * Voucher-based NFT minting implementation
 * WebGL & WebWallet builds for desktop, mobile (iOS or Android), and browser games
